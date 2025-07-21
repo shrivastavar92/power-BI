@@ -1,3 +1,4 @@
+![powerBI dashboard](https://github.com/user-attachments/assets/74e0157c-7f80-467f-b803-906b25af5a4b)
 # power-BI
 Dashboard
 				
@@ -77,5 +78,6 @@ Use size, color, and tooltips to represent different data values on the map.
 
 Adjust formatting options like themes and labels.				
 ![thumbnail](https://github.com/user-attachments/assets/2624daf2-efa4-456c-8157-7ee8f7b12677)
-![powerbi](https://github.com/user-attachments/assets/e88f1381-91f7-4611-901e-75b2c9ef7a71)
+![powerbi](https://github.com/user-attachments/assets/e88f1381-91f7-4611-901e-75b2c9ef7a71)![powerBI dashboard](https://github.com/user-attachments/assets/1cc0af7d-91b2-4bd0-aea0-aeddafbbbbea)
+
 <img width="544" height="2324" alt="image" src="https://github.com/user-attachments/assets/18ec8474-a9ff-4aa4-98e3-96f3aa0176ed" />
